@@ -4,13 +4,13 @@ I am Sang, a web developer passionate about creating websites that offer great u
 </p>
 
 ### Language
-[![Language](https://skillicons.dev/icons?i=html,css,js,mysql,cs)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=html,css,js,cs)](https://skillicons.dev)
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### Framework
-[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
+[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react,dotnet)](https://skillicons.dev)
 
 ### Editor / IDE
 [![Framework](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
