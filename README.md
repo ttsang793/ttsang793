@@ -10,7 +10,7 @@ I am Sang, a web developer passionate about creating websites that offer great u
 [![Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### Framework
-[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react,dotnet)](https://skillicons.dev)
+[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react,nextjs,dotnet)](https://skillicons.dev)
 
 ### Editor / IDE
 [![Framework](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
